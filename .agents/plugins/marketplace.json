@@ -1,0 +1,20 @@
+{
+  "name": "founder-os",
+  "interface": {
+    "displayName": "Founder OS"
+  },
+  "plugins": [
+    {
+      "name": "founder-os",
+      "source": {
+        "source": "local",
+        "path": "./plugins/founder-os"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
