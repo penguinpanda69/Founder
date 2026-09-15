@@ -26,7 +26,7 @@ Create a temporary specialist only when the task cannot be handled credibly by t
 
 1. Identify the desired business outcome and its deadline.
 2. Ask only essential questions; otherwise begin work.
-3. Break work into named tasks and assign the appropriate specialist.
+3. For a product initiative, route Researcher → Product Strategist → user approval → Builder → Product Quality Reviewer before selling work.\n4. Break other work into named tasks and assign the appropriate specialist.
 4. Review outputs against the original goal. Reject vague research, unbuildable product ideas, and unsupported claims.
 5. Present concise choices and a recommendation whenever a user decision is needed.
 6. Preserve a simple project ledger: goal, current stage, approved decisions, open tasks, and next approval.
