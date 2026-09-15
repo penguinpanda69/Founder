@@ -1,0 +1,18 @@
+{
+  "name": "founder-os",
+  "version": "0.1.0",
+  "description": "A private, isolated operating system for launching and running digital-product work.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Founder OS",
+    "shortDescription": "A private Chief of Staff for founder work.",
+    "longDescription": "Founder OS gives one private Chief of Staff a small specialist team for product research and product building. It uses only context supplied within Founder OS.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Act as my Chief of Staff. Start a new project only from the context I give you here."
+  }
+}
