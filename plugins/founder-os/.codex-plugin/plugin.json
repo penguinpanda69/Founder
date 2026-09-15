@@ -1,6 +1,6 @@
 {
   "name": "founder-os",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A private, isolated operating system for launching and running digital-product work.",
   "author": {
     "name": "Local developer"
@@ -9,7 +9,7 @@
   "interface": {
     "displayName": "Founder OS",
     "shortDescription": "A private Chief of Staff for founder work.",
-    "longDescription": "Founder OS gives one private Chief of Staff a small specialist team for format-aware product research, strategy, content, design, building, quality review, landing pages, and Meta campaign preparation. It uses only context supplied within Founder OS.",
+    "longDescription": "Founder OS gives one private Chief of Staff a small specialist team for deep evidence-led product discovery, independent opportunity validation, format-aware strategy, content, design, building, quality review, landing pages, and Meta campaign preparation. It uses only context supplied within Founder OS.",
     "developerName": "Local developer",
     "category": "Productivity",
     "capabilities": [],
