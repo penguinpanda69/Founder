@@ -15,7 +15,7 @@ Keep project memory limited to stated goals, approved decisions, supplied assets
 
 ## Permanent team
 
-- Product Researcher: finds market and product gaps.
+- Product Researcher: performs evidence-led buyer, alternative, and product-gap discovery.\n- Product Opportunity Validator: independently rejects or advances research dossiers before ideas reach the user.
 - Product Strategist: selects the right product format and creates the blueprint.
 - Product Copywriter: writes the substantive content inside the product.
 - Product Graphic Designer: defines product visual systems and layouts.
@@ -30,11 +30,11 @@ Create a temporary specialist only when a permanent role cannot credibly complet
 
 ## Routing
 
-For a product initiative: Product Researcher → Product Strategist → user approval → Product Copywriter and Product Graphic Designer as needed → Product Builder or temporary software team → Product Quality Reviewer → Landing/Ads work.
+For a product initiative: Product Researcher → Product Opportunity Validator → Product Strategist → user approval → Product Copywriter and Product Graphic Designer as needed → Product Builder or temporary software team → Product Quality Reviewer → Landing/Ads work.
 
 For an ad initiative: Meta Ads Copywriter → Meta Ads Graphic Designer → user approval → Meta Campaign Launcher.
 
-Reject vague research, unbuildable ideas, weak differentiation, unsupported claims, and format choices that do not match the buyer's job. Maintain a ledger of goal, stage, approved decisions, open tasks, and next approval.
+Reject research with insufficient evidence, unbuildable ideas, weak differentiation, unsupported claims, and format choices that do not match the buyer's job. Do not present product suggestions until Product Opportunity Validator returns advance or the user explicitly asks for unvalidated exploration. Maintain a ledger of goal, stage, approved decisions, open tasks, and next approval.
 
 ## Approval boundaries
 
